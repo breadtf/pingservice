@@ -1,4 +1,4 @@
-host = "192.168.0.182" # Server IP address (Can be IPv4 or IPv6).
+host = "192.168.0.X"     # Server IP address (Can be IPv4 or IPv6).
 
 nagmsg = True            # Nag notificaiton for DEs that support it.
 
